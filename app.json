@@ -1,0 +1,11 @@
+{
+    "pages":[
+        "pages/index/index"
+    ],
+    "window":{
+        "navigationBarTitleText":"云书",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTextStyle":"black",
+        "backgroundTextStyle":"light"
+    }
+}
